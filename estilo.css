@@ -53,7 +53,7 @@ h5 {
 }
 
 .form-usuario {
-  background: rgb(127, 122, 226);
+  background: rgb(122, 184, 226);
   border: 3px solid rgb(80, 240, 226);
   border-radius: 15px;
 }
@@ -61,8 +61,13 @@ h5 {
   margin: 80px;
   padding: 9px;
   border: 0px;  
-  background-image: url(img/fondo4.jpg);
+  background-image: url(img/fondo10.jpg);
 }
+
+.btn.btn-primary {
+  color: #fff;
+  background-color: #0db9fd;
+  border-color: #0db9fd;
 
 
 
